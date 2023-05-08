@@ -1,0 +1,7 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+$danger: green;
+.bg {
+  background-color: $danger;
+  color: white;
+  font-size: x-large;
+}
